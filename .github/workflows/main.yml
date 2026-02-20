@@ -1,0 +1,6 @@
+cd prediction_bot
+git init
+git add .
+git commit -m "Initial pipeline"
+git remote add origin https://github.com/past-watchful-dragons/predictionmarketbot.git
+git push -u origin main
